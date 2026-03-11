@@ -1,8 +1,8 @@
 <!-- AI / DATA / CLOUD BANNER -->
 
-Hi there 👋 I'm Dheeraj Alahari
+Hi there I'm Dheeraj Alahari
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Hi%20I'm%20YOUR_NAME&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Hi%20I'm%20Dheeraj Alahari&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">☁️ Cloud | 🤖 AI/ML | 📊 Data Science | 🗄 Big Data</h3>
@@ -12,7 +12,7 @@ Hi there 👋 I'm Dheeraj Alahari
 # 👨‍💻 About Me
 
 🎓 Final Year B.Tech Student
-🚀 Passionate about **Artificial Intelligence, Data Science, and Cloud Computing**
+🚀 Passionate about **Artificial Intelligence, Mahine Learning, Data Science, and Cloud Computing**
 
 💡 I enjoy building systems involving:
 
@@ -100,27 +100,18 @@ Hi there 👋 I'm Dheeraj Alahari
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEERAJA007&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📊 3D Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHEERAJA007&theme=tokyonight"/>
 
 </p>
 
@@ -128,15 +119,15 @@ Hi there 👋 I'm Dheeraj Alahari
 
 # 🚀 Featured Projects
 
-<a href="https://github.com/YOUR_USERNAME/project1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight"/>
+<a href="https://github.com/DHEERAJA007/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DHEERAJA007&repo=project1&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/project2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight"/>
+<a href="https://github.com/DHEERAJA007/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DHEERAJA007&repo=project2&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/project3">
+<a href="https://github.com/DHEERAJA007/project3">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project3&theme=tokyonight"/>
 </a>
 
