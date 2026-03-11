@@ -2,7 +2,7 @@
 
 Hi there I'm Dheeraj Alahari
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Hi%20I'm%20Dheeraj Alahari&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Hi%20I'm%20Dheeraj&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">☁️ Cloud | 🤖 AI/ML | 📊 Data Science | 🗄 Big Data</h3>
@@ -90,7 +90,7 @@ Hi there I'm Dheeraj Alahari
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DHEERAJA007&show_icons=true&theme=tokyonight"/>
 
 </p>
 
