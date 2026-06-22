@@ -26,9 +26,9 @@
 # 🦇 WHO AM I?
 # 🦇 BATCOMPUTER // PROFILE
 
-yaml
+```yaml
 Name: Dheeraj Alahari
-Role: Final Year CSE Student
+Role: Final Year B.Tech CSE Student
 
 Status: ACTIVE
 
@@ -47,7 +47,9 @@ Current Mission:
 Location: VIT Vellore
 
 System Status: ONLINE ██████████
+```
 
+---
 ---
 
 # ⚡ TECH UTILITY BELT
