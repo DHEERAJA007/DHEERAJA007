@@ -26,6 +26,7 @@
 # 🦇 WHO AM I?
 
 class DheerajAlahari:
+
     role = "Final Year CSE Student"
     interests = [
         "Artificial Intelligence",
@@ -34,6 +35,7 @@ class DheerajAlahari:
         "Data Science",
         "Backend Engineering"
     ]
+    
     currently_building = [
         "ML Projects",
         "Flask APIs",
