@@ -1,84 +1,117 @@
 
-<!-- BATMAN THEMED HEADER -->
+<!-- ==================== GOTHAM / BATMAN README ==================== -->
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,24,25&text=🦇%20Dheeraj%20Alahari&fontColor=F7C948&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20•%20Cloud%20Developer%20•%20Data%20Science%20Enthusiast&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=🦇%20Dheeraj%20Alahari&fontAlign=50&fontAlignY=38&fontColor=F4C430&animation=fadeIn&color=0:000000,30:111111,60:1B1B1B,100:2C2C2C"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=F7C948&center=true&vCenter=true&width=900&lines=🦇+Welcome+to+the+Batcave...;Artificial+Intelligence+%7C+Machine+Learning;Cloud+Computing+%7C+Data+Science;Building+Intelligent+Systems+Every+Day"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=F4C430&center=true&vCenter=true&width=900&lines=Welcome+to+the+Batcave.;Building+AI+Powered+Solutions.;Cloud+Architect+in+Progress.;Turning+Data+Into+Decisions.;Always+Coding+After+Dark."/>
 
 </p>
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,aws,docker,gcp,postgres,git,github"/>
+## 🌃 *"The city sleeps. The code doesn't."*
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,aws,gcp,docker,postgres,git,github"/>
+
+</div>
 
 ---
 
-# 🦇 About Me
+# 🦇 WHO AM I?
 
-> *"It's not who I am underneath, but what I build that defines me."*
+class DheerajAlahari:
+    role = "Final Year CSE Student"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Cloud Computing",
+        "Data Science",
+        "Backend Engineering"
+    ]
+    currently_building = [
+        "ML Projects",
+        "Flask APIs",
+        "Analytics Dashboards",
+        "Automation Tools"
+    ]
 
-🎓 Final Year B.Tech CSE Student
+    life_motto = "Code. Learn. Repeat."
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Cloud Computing & Data Science.
-
-⚡ I enjoy developing:
-- Intelligent ML Models
-- Backend APIs
-- Data Analytics Platforms
-- Automation Systems
-- Scalable Cloud Applications
 
 ---
 
-# 🛠 Tech Arsenal
+# ⚡ TECH UTILITY BELT
 
-## ⚙ Languages
+### 💻 Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql"/>
+
 </p>
 
-## 🌐 Development
+### 🌐 Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,mongodb"/>
+
 </p>
 
-## ☁ Cloud & DevOps
+### ☁ Cloud & Infrastructure
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux"/>
+
 </p>
 
-## 🗄 Databases
+### 🗄 Databases
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
 </p>
 
-## 🔧 Developer Tools
+### 🛠 Developer Tools
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
 </p>
-
-## 🤖 AI / ML
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- NLP
-- Data Visualization
 
 ---
+
+# 🦇 BAT COMPUTER STATUS
+
+| System             | Status          |
+| ------------------ | --------------- |
+| 🤖 AI & ML         | ██████████ 100% |
+| ☁ Cloud            | ████████░░ 80%  |
+| 📊 Data Science    | █████████░ 90%  |
+| 🌐 Web Development | ████████░░ 85%  |
+| 🗄 Databases       | █████████░ 90%  |
+| 🚀 Learning        | ∞               |
+
+---
+
+<div align="center">
+
+## 🌙 Gotham never sleeps. Neither does curiosity.
+
+</div>
+
+---
+
+
 
 # 📊 GitHub Statistics
 
