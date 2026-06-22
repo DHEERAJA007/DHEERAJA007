@@ -24,29 +24,30 @@
 ---
 
 # 🦇 WHO AM I?
+# 🦇 BATCOMPUTER // PROFILE
 
-```python
-class DheerajAlahari:
+yaml
+Name: Dheeraj Alahari
+Role: Final Year CSE Student
 
-    role = "Final Year CSE Student"
+Status: ACTIVE
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Cloud Computing",
-        "Data Science",
-        "Backend Engineering"
-    ]
+Specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+  - Data Science
 
-    currently_building = [
-        "ML Projects",
-        "Flask APIs",
-        "Analytics Dashboards",
-        "Automation Tools"
-    ]
+Current Mission:
+  - Building ML Projects
+  - Developing Flask APIs
+  - Creating Data Dashboards
+  - Learning Scalable Systems
 
-    life_motto = "Code. Learn. Repeat."
-```
+Location: VIT Vellore
+
+System Status: ONLINE ██████████
+
 ---
 
 # ⚡ TECH UTILITY BELT
