@@ -1,97 +1,82 @@
-<!-- AI / DATA / CLOUD BANNER -->
 
-Hi there I'm Dheeraj Alahari
+<!-- BATMAN THEMED HEADER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Hi%20I'm%20Dheeraj&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,24,25&text=🦇%20Dheeraj%20Alahari&fontColor=F7C948&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20•%20Cloud%20Developer%20•%20Data%20Science%20Enthusiast&descAlignY=60&animation=twinkling"/>
+
 </p>
 
-<h3 align="center">☁️ Cloud | 🤖 AI/ML | 📊 Data Science | 🗄 Big Data</h3>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=F7C948&center=true&vCenter=true&width=900&lines=🦇+Welcome+to+the+Batcave...;Artificial+Intelligence+%7C+Machine+Learning;Cloud+Computing+%7C+Data+Science;Building+Intelligent+Systems+Every+Day"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,aws,docker,gcp,postgres,git,github"/>
+
+</p>
 
 ---
 
-# About Me
+# 🦇 About Me
 
-Final Year B.Tech Student
-Passionate about **Artificial Intelligence, Mahine Learning, Data Science, and Cloud Computing**
+> *"It's not who I am underneath, but what I build that defines me."*
 
-I enjoy building systems involving:
+🎓 Final Year B.Tech CSE Student
 
-* Machine Learning Models
-* Data Pipelines
-* Scalable Backend APIs
-* Data Analytics Dashboards
+🤖 Passionate about Artificial Intelligence, Machine Learning, Cloud Computing & Data Science.
 
-Interested in solving **real-world problems using data and AI**
+⚡ I enjoy developing:
+- Intelligent ML Models
+- Backend APIs
+- Data Analytics Platforms
+- Automation Systems
+- Scalable Cloud Applications
 
 ---
 
-# Tech Stack
+# 🛠 Tech Arsenal
 
-## 💻 Programming Languages
+## ⚙ Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql"/>
 </p>
 
----
+## 🌐 Development
 
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,mongodb"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs"/>
 </p>
 
----
+## ☁ Cloud & DevOps
 
-## 🖥️ Systems & Networking
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux"/>
 </p>
 
-**Other:** JSON, Golang
+## 🗄 Databases
 
----
-
-## 🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql"/>
-</p>
-
----
-
-## AI / Data Science
-
-* Pandas
-* NumPy
-* Scikit-learn
-* NLP
-* Data Visualization
-
----
-
-### Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker"/>
-</p>
-
----
-
-### Databases
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
----
+## 🔧 Developer Tools
 
-### Tools
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
+
+## 🤖 AI / ML
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- NLP
+- Data Visualization
 
 ---
 
