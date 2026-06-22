@@ -25,9 +25,11 @@
 
 # 🦇 WHO AM I?
 
+```python
 class DheerajAlahari:
 
     role = "Final Year CSE Student"
+
     interests = [
         "Artificial Intelligence",
         "Machine Learning",
@@ -35,7 +37,7 @@ class DheerajAlahari:
         "Data Science",
         "Backend Engineering"
     ]
-    
+
     currently_building = [
         "ML Projects",
         "Flask APIs",
@@ -44,8 +46,7 @@ class DheerajAlahari:
     ]
 
     life_motto = "Code. Learn. Repeat."
-
-
+```
 ---
 
 # ⚡ TECH UTILITY BELT
