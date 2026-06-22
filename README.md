@@ -192,7 +192,7 @@ System Status: ONLINE ██████████
 
 ### 🛠 Technical Head — Sahiti TLA
 
-📅 *Feb 2025 – Present*
+📅 *Feb 2025 – Mar 2026*
 
 * Led **photography, video editing, and web design initiatives**.
 * Designed event visuals and **Figma-based creatives**.
